@@ -1,4 +1,4 @@
-# About Me :
+# About Me
 
 Hi! I'm Regina, a junior full-stack developer, actively working on my tech skills with hands-on projects. 
 
