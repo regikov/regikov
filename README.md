@@ -3,7 +3,7 @@
 Hi! I'm Regina, a junior full-stack developer in Berlin. 
 Besides working on my diploma in partnership with Axel Springer, I am also a part of the Odin Project community. 
 
-As a career changer, I put a lot of importance on learning and I believe everything is achievable with the right mindset. 🌱
+As a career changer, I put a lot of importance on learning and I believe everything is achievable with the right mindset!!
 
 As a person, I am also passionate about animals, memes, and competitive board games 😄.
 
