@@ -1,16 +1,27 @@
-## Hi there 👋
+# About Me :
 
-<!--
-**regikov/regikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Regina, a junior full-stack developer, actively working on my tech skills with hands-on projects. 
 
-Here are some ideas to get you started:
+As a career changer, I put a lot of importance on learning and I believe everything is achievable with the right mindset. 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a person, I am also passionate about animals, memes, and competitive board games 😄.
+
+Let’s connect, chat and build somnething together! 
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/reginakovacs28/)  
+[![Email](https://img.shields.io/badge/Email-blue)](mailto:kovacs.regina@.gmail.com)
+
+---
+
+## 🛠️ Main Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
